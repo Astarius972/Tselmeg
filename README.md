@@ -14,3 +14,4 @@ npm run dev
 Then open http://localhost:3000
 
 All the text (both languages) lives in `data/content.js`. Photos are in `public/gallery`, the song in `public/music`.
+# Tselmeg
